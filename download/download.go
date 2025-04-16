@@ -6,11 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/schollz/progressbar/v3"
-	"github.com/xhit/go-str2duration/v2"
-
-	"github.com/rodrigo-brito/ninjabot/service"
-	"github.com/rodrigo-brito/ninjabot/tools/log"
+	"github.com/hunternsk/ninjabot/service"
+	"github.com/hunternsk/ninjabot/tools/log"
 )
 
 const batchSize = 500

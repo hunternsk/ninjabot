@@ -11,9 +11,9 @@ import (
 
 	"github.com/adshao/go-binance/v2/common"
 
-	"github.com/rodrigo-brito/ninjabot/model"
-	"github.com/rodrigo-brito/ninjabot/service"
-	"github.com/rodrigo-brito/ninjabot/tools/log"
+	"github.com/hunternsk/ninjabot/model"
+	"github.com/hunternsk/ninjabot/service"
+	"github.com/hunternsk/ninjabot/tools/log"
 )
 
 type assetInfo struct {

@@ -11,10 +11,10 @@ import (
 	log "github.com/sirupsen/logrus"
 	tb "gopkg.in/tucnak/telebot.v2"
 
-	"github.com/rodrigo-brito/ninjabot/exchange"
-	"github.com/rodrigo-brito/ninjabot/model"
-	"github.com/rodrigo-brito/ninjabot/order"
-	"github.com/rodrigo-brito/ninjabot/service"
+	"github.com/hunternsk/ninjabot/exchange"
+	"github.com/hunternsk/ninjabot/model"
+	"github.com/hunternsk/ninjabot/order"
+	"github.com/hunternsk/ninjabot/service"
 )
 
 var (

@@ -10,10 +10,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rodrigo-brito/ninjabot/exchange"
-	"github.com/rodrigo-brito/ninjabot/model"
-	"github.com/rodrigo-brito/ninjabot/service"
-	"github.com/rodrigo-brito/ninjabot/storage"
+	"github.com/hunternsk/ninjabot/exchange"
+	"github.com/hunternsk/ninjabot/model"
+	"github.com/hunternsk/ninjabot/service"
+	"github.com/hunternsk/ninjabot/storage"
 
 	"github.com/olekukonko/tablewriter"
 	log "github.com/sirupsen/logrus"

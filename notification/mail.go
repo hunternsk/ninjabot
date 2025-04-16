@@ -6,7 +6,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/rodrigo-brito/ninjabot/model"
+	"github.com/hunternsk/ninjabot/model"
 )
 
 type Mail struct {

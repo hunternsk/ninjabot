@@ -4,11 +4,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/rodrigo-brito/ninjabot/download"
-	"github.com/rodrigo-brito/ninjabot/exchange"
-	"github.com/rodrigo-brito/ninjabot/service"
-
-	"github.com/urfave/cli/v2"
+	"github.com/hunternsk/ninjabot/download"
+	"github.com/hunternsk/ninjabot/exchange"
+	"github.com/hunternsk/ninjabot/service"
 )
 
 func main() {

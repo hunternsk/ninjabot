@@ -4,10 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rodrigo-brito/ninjabot/model"
-	"github.com/rodrigo-brito/ninjabot/plot"
-
-	"github.com/markcheno/go-talib"
+	"github.com/hunternsk/ninjabot/model"
+	"github.com/hunternsk/ninjabot/plot"
 )
 
 func MACD(fast, slow, signal int, colorMACD, colorMACDSignal, colorMACDHist string) plot.Indicator {

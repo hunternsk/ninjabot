@@ -8,7 +8,7 @@ import (
 
 	"github.com/tidwall/buntdb"
 
-	"github.com/rodrigo-brito/ninjabot/model"
+	"github.com/hunternsk/ninjabot/model"
 )
 
 type Bunt struct {

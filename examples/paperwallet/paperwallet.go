@@ -5,14 +5,14 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/rodrigo-brito/ninjabot/plot"
-	"github.com/rodrigo-brito/ninjabot/plot/indicator"
+	"github.com/hunternsk/ninjabot/plot"
+	"github.com/hunternsk/ninjabot/plot/indicator"
 
-	"github.com/rodrigo-brito/ninjabot"
-	"github.com/rodrigo-brito/ninjabot/examples/strategies"
-	"github.com/rodrigo-brito/ninjabot/exchange"
-	"github.com/rodrigo-brito/ninjabot/storage"
-	"github.com/rodrigo-brito/ninjabot/tools/log"
+	"github.com/hunternsk/ninjabot"
+	"github.com/hunternsk/ninjabot/examples/strategies"
+	"github.com/hunternsk/ninjabot/exchange"
+	"github.com/hunternsk/ninjabot/storage"
+	"github.com/hunternsk/ninjabot/tools/log"
 )
 
 // This example shows how to use NinjaBot with a simulation with a fake exchange

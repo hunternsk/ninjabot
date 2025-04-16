@@ -1,14 +1,14 @@
 ![Ninjabot](https://user-images.githubusercontent.com/7620947/161434011-adc89d1a-dccb-45a7-8a07-2bb55e62d2d9.png)
 
-[![tests](https://github.com/rodrigo-brito/ninjabot/actions/workflows/ci.yaml/badge.svg)](https://github.com/rodrigo-brito/ninjabot/actions/workflows/ci.yaml)
-[![codecov](https://codecov.io/gh/rodrigo-brito/ninjabot/branch/main/graph/badge.svg)](https://codecov.io/gh/rodrigo-brito/ninjabot)
-[![Go Reference](https://pkg.go.dev/badge/github.com/rodrigo-brito/ninjabot.svg)](https://pkg.go.dev/github.com/rodrigo-brito/ninjabot)
+[![tests](https://github.com/hunternsk/ninjabot/actions/workflows/ci.yaml/badge.svg)](https://github.com/hunternsk/ninjabot/actions/workflows/ci.yaml)
+[![codecov](https://codecov.io/gh/hunternsk/ninjabot/branch/main/graph/badge.svg)](https://codecov.io/gh/hunternsk/ninjabot)
+[![Go Reference](https://pkg.go.dev/badge/github.com/hunternsk/ninjabot.svg)](https://pkg.go.dev/github.com/hunternsk/ninjabot)
 [![Discord](https://img.shields.io/discord/960156400376483840?color=5865F2&label=discord)](https://discord.gg/TGCrUH972E)
 [![Discord](https://img.shields.io/badge/donate-patreon-red)](https://www.patreon.com/ninjabot_github)
 
 A fast cryptocurrency trading bot framework implemented in Go. Ninjabot permits users to create and test custom strategies for sport and future markets. 
 
-Docs: https://rodrigo-brito.github.io/ninjabot/
+Docs: https://hunternsk.github.io/ninjabot/
 
 | DISCLAIMER                                                                                                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,7 +16,7 @@ Docs: https://rodrigo-brito.github.io/ninjabot/
 
 ## Installation
 
-`go get -u github.com/rodrigo-brito/ninjabot/...`
+`go get -u github.com/hunternsk/ninjabot/...`
 
 ## Examples of Usage
 
@@ -30,8 +30,8 @@ Check [examples](examples) directory:
 
 To download historical data you can download ninjabot CLI from:
 
-- Pre-build binaries in [release page](https://github.com/rodrigo-brito/ninjabot/releases)
-- Or with `go install github.com/rodrigo-brito/ninjabot/cmd/ninjabot@latest`
+- Pre-build binaries in [release page](https://github.com/hunternsk/ninjabot/releases)
+- Or with `go install github.com/hunternsk/ninjabot/cmd/ninjabot@latest`
 
 **Example of usage**
 ```bash
@@ -113,7 +113,7 @@ Chart available at http://localhost:8080
 
 # Roadmap
   - [ ] Include Web UI Controller
-  - [ ] Include more chart indicators - [Details](https://github.com/rodrigo-brito/ninjabot/issues/110)
+  - [ ] Include more chart indicators - [Details](https://github.com/hunternsk/ninjabot/issues/110)
 
 ### Exchanges
 

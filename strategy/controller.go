@@ -3,8 +3,8 @@ package strategy
 import (
 	log "github.com/sirupsen/logrus"
 
-	"github.com/rodrigo-brito/ninjabot/model"
-	"github.com/rodrigo-brito/ninjabot/service"
+	"github.com/hunternsk/ninjabot/model"
+	"github.com/hunternsk/ninjabot/service"
 )
 
 type Controller struct {
