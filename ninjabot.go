@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
+	"github.com/schollz/progressbar/v3"
 	"os"
 	"strconv"
 

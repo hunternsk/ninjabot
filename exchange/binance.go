@@ -3,6 +3,7 @@ package exchange
 import (
 	"context"
 	"fmt"
+	"github.com/adshao/go-binance/v2"
 	"strconv"
 	"time"
 
