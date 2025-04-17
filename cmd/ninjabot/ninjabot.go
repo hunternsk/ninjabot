@@ -7,6 +7,8 @@ import (
 	"github.com/hunternsk/ninjabot/download"
 	"github.com/hunternsk/ninjabot/exchange"
 	"github.com/hunternsk/ninjabot/service"
+
+	"github.com/urfave/cli/v2"
 )
 
 func main() {

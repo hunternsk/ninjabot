@@ -1,6 +1,7 @@
 package indicator
 
 import (
+	"github.com/markcheno/go-talib"
 	"time"
 
 	"github.com/hunternsk/ninjabot/model"

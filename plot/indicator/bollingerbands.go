@@ -2,6 +2,7 @@ package indicator
 
 import (
 	"fmt"
+	"github.com/markcheno/go-talib"
 	"time"
 
 	"github.com/hunternsk/ninjabot/model"

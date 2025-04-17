@@ -6,6 +6,7 @@ import (
 	"github.com/hunternsk/ninjabot/service"
 	"github.com/hunternsk/ninjabot/strategy"
 	"github.com/hunternsk/ninjabot/tools/log"
+	"github.com/markcheno/go-talib"
 )
 
 type OCOSell struct{}

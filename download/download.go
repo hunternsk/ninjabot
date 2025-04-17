@@ -3,6 +3,8 @@ package download
 import (
 	"context"
 	"encoding/csv"
+	"github.com/schollz/progressbar/v3"
+	"github.com/xhit/go-str2duration/v2"
 	"os"
 	"time"
 
